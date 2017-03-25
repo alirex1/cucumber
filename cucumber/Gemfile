@@ -1,0 +1,9 @@
+source 'https://rubygems.org'
+
+gem 'rake'
+gem 'cucumber'
+gem 'rspec'
+gem 'page-object', '~> 2.1', '>= 2.1.1'
+gem 'require_all'
+gem 'fig_newton'
+gem 'watir'
