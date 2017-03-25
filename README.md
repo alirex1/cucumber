@@ -1,4 +1,11 @@
 # cucumber
+<b>Computer Spesification</b><br>
+<ul>
+<li>Operating System : Windows 10 Pro 64Bit (10.0, Build 14393)</li>
+<li>Processor        : Intel Pentium P6200 @2.13GHz</li>
+<li>RAM              : 4GB </li>
+</ul><br><br>
+
 <b>Test with JetBrains RubyMine 2017.1 x64</b>
 
 
